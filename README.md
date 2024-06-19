@@ -7,7 +7,6 @@
 ## Ejecutar en desarrolo
 
 1. Clonar el repositoio
-
 2. Ejecutar
 ```bash
 $ yarn install
